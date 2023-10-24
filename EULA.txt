@@ -1,0 +1,60 @@
+
+        ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+
+Este Acuerdo de Licencia de Usuario Final ("EULA") es un acuerdo legal entre usted (el "Usuario") y FvhirNex. Al instalar y utilizar este software, usted acepta estar sujeto a los términos y condiciones de este EULA.
+
+1. LICENCIA
+
+    a. Concesión de Licencia. Le otorgamos una licencia personal, no exclusiva, intransferible y revocable para utilizar el software VisioNexWave (el "Software") bajo los términos de este EULA.
+
+    b. Restricciones. Usted se compromete a no:
+    
+        i. Modificar, adaptar o alterar el Software de ninguna manera.
+        ii. Descompilar, realizar ingeniería inversa, desmontar o intentar derivar el código fuente del Software.
+        iii. Distribuir, sublicenciar, alquilar, arrendar o transferir el Software a terceros.
+    
+2. PROPIEDAD INTELECTUAL
+
+    a. Derechos de Autor. El Software y toda la documentación relacionada están protegidos por leyes de derechos de autor y tratados internacionales. Todos los derechos no otorgados expresamente en este EULA están reservados por nosotros.
+
+    b. Marcas Comerciales. FvhirNex, VisioNexWave y cualquier logotipo relacionado son marcas comerciales registradas o marcas comerciales de FvhirNex. No se le otorga ningún derecho o licencia para utilizar nuestras marcas comerciales.
+
+3. USO NO COMERCIAL
+
+Este Software se proporciona exclusivamente para uso no comercial. Usted no tiene permitido utilizar el Software para ningún propósito comercial o con fines lucrativos sin nuestro consentimiento previo por escrito.
+
+4. CONTENIDO GENERADO POR EL USUARIO
+
+    a. Contribuciones del Usuario. Usted puede tener la oportunidad de contribuir con contenido generado por el usuario, como comentarios, retroalimentación o envíos de datos. Al hacerlo, usted concede a nosotros una licencia perpetua, irrevocable y mundial para utilizar, modificar, mostrar y distribuir dichas contribuciones en relación con el Software y nuestro negocio.
+
+    b. Responsabilidad. Usted es el único responsable de sus contribuciones y garantiza que no violan los derechos de terceros ni infringen ninguna ley aplicable.
+
+5. ACTUALIZACIONES Y SOPORTE
+
+Nosotros podemos proporcionar actualizaciones periódicas del Software y soporte técnico a nuestra discreción. No tenemos la obligación de mantener o actualizar el Software.
+
+6. LIMITACIÓN DE RESPONSABILIDAD
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA. EN NINGÚN CASO SEREMOS RESPONSABLES ANTE USTED O CUALQUIER OTRA PERSONA POR CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE DERIVADO DEL USO O LA INCAPACIDAD DE USAR EL SOFTWARE, INCLUSO SI SE NOS HA INFORMADO DE LA POSIBILIDAD DE TALES DAÑOS.
+
+7. TERMINACIÓN
+
+Podemos rescindir este EULA en cualquier momento si usted incumple sus términos. En caso de terminación, debe dejar de utilizar el Software y eliminar todas las copias del mismo.
+
+8. LEGISLACIÓN APLICABLE
+
+Este EULA se regirá e interpretará de acuerdo con las leyes del [País o Jurisdicción], sin tener en cuenta sus conflictos de principios legales.
+
+9. CAMBIOS EN EL EULA
+
+Nos reservamos el derecho de modificar este EULA en cualquier momento. Las modificaciones entrarán en vigencia al publicarse en nuestro sitio web. Se espera que usted revise este EULA regularmente.
+
+Este EULA representa el acuerdo completo entre usted y nosotros con respecto al Software y reemplaza cualquier acuerdo previo o contemporáneo.
+
+Para cualquier pregunta o inquietud relacionada con este EULA, contáctenos a través de [su dirección de correo electrónico].
+
+Fecha de entrada en vigencia: 29/09/2023
+
+Este EULA será mostrado todas y cada una de las veces que se inicie el programa VisioNexWave, cada vez que el usuario lo eecute y le de uso, estará aceptado este EULA.
+
+- FvhirNex

@@ -1,0 +1,15 @@
+Requisitos Mínimos del Sistema:
+
+Sistema Operativo: El código está escrito en Python y utiliza la biblioteca Tkinter, que generalmente está disponible en la mayoría de los sistemas operativos, incluyendo Windows, macOS y distribuciones de Linux.
+
+Python: Se requiere tener Python instalado en el sistema. El código se escribió en Python 3.x, por lo que se recomienda tener una versión compatible de Python instalada en el sistema. La mayoría de las distribuciones modernas de Python 3 deberían ser adecuadas.
+
+Librerías Python: Se utilizan las bibliotecas estándar de Python, incluyendo tkinter y ttk (que generalmente se instalan junto con Python), por lo que no es necesario instalar bibliotecas adicionales.
+
+Recursos: El código hace referencia a un archivo de icono ("random.ico") ubicado en la carpeta "media\loader\". Asegúrate de que este archivo esté presente o modifica la ruta del icono según sea necesario.
+
+Recursos de Hardware Mínimos Recomendados:
+
+CPU: Cualquier procesador moderno que sea compatible con Python y Tkinter debería ser suficiente. No se requieren especificaciones de CPU específicas, ya que el programa es simple y no exige mucho poder de procesamiento.
+
+RAM: El programa en sí mismo es liviano y no requiere mucha memoria RAM. Un sistema con al menos 2 GB de RAM debería ser suficiente para ejecutar este programa de manera eficiente.

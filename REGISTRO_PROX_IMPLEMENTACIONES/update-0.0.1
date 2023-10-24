@@ -1,0 +1,28 @@
+███    █▄     ▄███████▄ ████████▄     ▄████████     ███        ▄████████       ▄██████▄      ▄██████▄      ▄█  
+███    ███   ███    ███ ███   ▀███   ███    ███ ▀█████████▄   ███    ███      ███    ███    ███    ███    ███  
+███    ███   ███    ███ ███    ███   ███    ███    ▀███▀▀██   ███    █▀       ███    ███    ███    ███    ███▌ 
+███    ███   ███    ███ ███    ███   ███    ███     ███   ▀  ▄███▄▄▄          ███    ███    ███    ███    ███▌ 
+███    ███ ▀█████████▀  ███    ███ ▀███████████     ███     ▀▀███▀▀▀          ███    ███    ███    ███    ███▌ 
+███    ███   ███        ███    ███   ███    ███     ███       ███    █▄       ███    ███    ███    ███    ███  
+███    ███   ███        ███   ▄███   ███    ███     ███       ███    ███      ███    ███    ███    ███    ███  
+████████▀   ▄████▀      ████████▀    ███    █▀     ▄████▀     ██████████       ▀██████▀  █   ▀██████▀  █  █▀   -- Index
+
+Crear código servidor -> Ordenes (Descarga actualización)
+|
+:-> El cliente se lo descarga en cuanto se compruebe que hay una actualización disponible, se descarga automáticamente.
+
+Pantalla de precarga, hasta que no haya cargado almenos el 80% del programa, no se ejecutará.
+
+Agregar EULA
+
+idea aCTUALIZACIÓN v.0.0.1a
+
+[] Ejecutable -> start.py [al ejecutarse, inicia un codigo -> preload.py]
+|
+:-> Preload -> Precargador (compuesto por): [ Comprobador de actualizaciones]
+                                                |                   |
+                                                V                   v
+                                                Aceptación de EULA (Solo una vez, se iniciará unicamente cuando se note que ha cambiado la ip o algún componente del sistem)
+                                                |                   |
+                                                V                   V
+                                                Programa (tras haber pasado todos los procesos, se iniciará el programa)
