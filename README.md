@@ -21,14 +21,12 @@
 
 ### __Versiones:__
 
-Este programa está en la versión 0.0.1 y se encuentra en proceso de pruebas y desarrollo. Más actualizaciones estarán disponibles en futuras versiones.
+Este programa está en la versión 1.0 y se encuentra en proceso de pruebas y desarrollo. Más actualizaciones estarán disponibles en futuras versiones.
 
 ### __Programa y Funcionamiento__
 
 Este software, ha sido creado con el objetivo de gestionar datos rápidamente y funciones de administración del sistema, el principal objetivo de este software, fué para satisfacer las necesidades del creador y para otorgar entretenimiento temporal.
 
-
-Este programa está compuesto por archivos `python`, `html`, `txt` y `md`.
 Para que el software funcione correctamente, es necesario que se tengan instalados los [requesitos minimos](ABOUT/dependeny.txt).
 
 ### __Seguridad y Privacidad__
@@ -37,12 +35,12 @@ Este software, no cuenta con capacidad para enviar datos a ningún servidor, ade
 
 Este software, no interfiere de ninguna manera con la seguridad o privacidad de su equipo.
 
-[Política de Privacidad de VisioNexWave](ABOUT/politica_privacidad.md)
+[Política de Privacidad de VisioNexWave](ABOUT/politica_privacidad.md)<!--No proporcionado>
 
 
-### __Actualizaciones__
+<!--### __Actualizaciones__
 
-Última actualización del software [29/09/2023]
+Última actualización del software [24/10/2023]
 
 ### Lista de Comandos principales del programa:
 
@@ -68,3 +66,4 @@ Este software, no interfiere de ninguna manera con la seguridad o privacidad de 
 |----------|----------|----------|
 | bloq-ssn     | Bloquar sesión | [ ] Inactivo    |
 | strt-nw-cmd     | Inicio nuevo CMD | [ ] Inactivo    |
+-->
