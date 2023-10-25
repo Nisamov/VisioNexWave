@@ -4,7 +4,7 @@
 #    YP    88 8bodP' 88  YbodP  88  Y8 888888 dP  Yb    YP  YP    dP""""Yb    YP    888888 
 
 
-# Program: VisioNexWave
+# Program: VisioNex Wave
 # Supportes by: FvhirNex
 
 #!C:\python
