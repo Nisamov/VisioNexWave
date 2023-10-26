@@ -5,9 +5,8 @@ La capacidad minima se da por hecho que ya cuentas con ella.
 
 | Hardware | Mínimo Necesario | Recomendado |
 |----------|----------|----------|
-| Espacio en el dispositivo | 16,9 MB | 100MB |
+| Espacio en el dispositivo | 17,1 MB | 100MB |
 | Memoria RAM | 1GB | 2GB |
-| Microprocesador | X | X |
 
 ## Dependencias
 >[!IMPORTANT]

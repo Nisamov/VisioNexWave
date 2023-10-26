@@ -6,7 +6,7 @@
 
 
  Program: VisioNexWave
- Supportes by: FvhirNex
+ Supportes by: Thertex
 -->
 
 # README VisioNexWave
@@ -15,13 +15,17 @@
 
 Accede al repositorio de [GitHub VisioNex Wave](https://github.com/Nisamov/VisionexWave.git)
 
+Accede a la Wiki del proyecto [aquí](http://visionexwave.wikidot.com)
+
 ## Licencias:
 
-<!--Programa Oficial está ubicado públicamente en [Github](https://github.com "Github Sitio Oficial").-->
-
-><p xmlns:cc="http://creativecommons.org/ns#" >Este trabajo está bajo la licencia  CC BY-NC-SA 4.0: :: <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+><p xmlns:cc="http://creativecommons.org/ns#" >Este trabajo está bajo la licencia  CC BY-NC-SA 4.0: <br><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
 ## A Cerca De:
+
+<!--### __Funcionamiento:__
+.\vnv_start.bat --start
+-->
 
 ### __Versiones:__
 
@@ -34,11 +38,11 @@ Descargar las versiones más recientes:
 
 | Versión | Fecha de publicación | Url de Descarga | Descarga |
 |----------|----------|----------|----------|
-| V 1.0 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
-| V 1.1 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
-| V 1.2 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
+| V 1.0 | 25/10/2023 | `https://download/no disponible`   | [Download](https://download/nodisponible) |
+| V 1.1 | 30/10/2023 | `https://download/no disponible`   | [Download](https://github.com/Nisamov/VisioNexWave/archive/refs/heads/main.zip) |
+<!--| V 1.2 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
 | V 1.3 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
-| V 1.4 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |
+| V 1.4 | xx/xx/xxxx | `https://download/example`   | [Download](https://download/example) |-->
 
 > [ ! ] Puedes [descargar otras versiones](program/versions/versions.md).<!--Reenvio a lista de versiones con tabla de descarga-->
 
